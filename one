@@ -1,2 +1,4 @@
 #!/bin/bash
 echo "Hello Pallavi"
+javac Helloworld.java
+java Helloworld
